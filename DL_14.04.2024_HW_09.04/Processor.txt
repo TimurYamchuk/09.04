@@ -1,0 +1,4 @@
+Processor
+Producer: Intel
+Frequency: 3.5
+CoreCount: 4

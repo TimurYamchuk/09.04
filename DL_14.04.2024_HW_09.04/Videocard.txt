@@ -1,0 +1,3 @@
+Videocard
+Producer: Nvidia
+Memory: 8GB GDDR6

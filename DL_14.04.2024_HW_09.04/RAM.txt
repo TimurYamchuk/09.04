@@ -1,0 +1,3 @@
+RAM
+Producer: Corsair
+Hertzian: DDR4 3200MHz
